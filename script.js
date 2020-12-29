@@ -1,3 +1,11 @@
+// function expand() {
+//     document.querySelectorAll('img').forEach(function(elem) {
+//         elem.style.width = 300px;
+//     }
+// }
+
+
+
 const panels = document.querySelectorAll('.panel')
 
 panels.forEach((panel) => {
